@@ -23,10 +23,10 @@ class _IntroInfoState extends State<IntroInfo> {
           borderRadius: BorderRadius.circular(15.0),
           side: BorderSide(color: Theme.of(context).primaryColor, width: 1.0), // Add border here
         ),
-        margin: const EdgeInsets.all(8.0),
+        margin: const EdgeInsets.all(16.0),
         color: cardColor,
         child: Padding(
-          padding: const EdgeInsets.all(8.0),
+          padding: const EdgeInsets.all(16.0),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
