@@ -21,7 +21,7 @@ class _IntroInfoState extends State<IntroInfo> {
         elevation: 4.0,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(15.0),
-          side: BorderSide(color: Theme.of(context).primaryColor, width: 1.0), // Add border here
+          side: BorderSide(color: Theme.of(context).primaryColor, width: 1.0), 
         ),
         margin: const EdgeInsets.all(16.0),
         color: cardColor,
@@ -31,10 +31,10 @@ class _IntroInfoState extends State<IntroInfo> {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Text(
-                d1, // Text content
-                textAlign: TextAlign.center, // Place TextAlign here
+                d1,
+                textAlign: TextAlign.center, 
                 style: TextStyle(
-                  color: Theme.of(context).textTheme.bodyLarge?.color, // Extract color properly
+                  color: Theme.of(context).textTheme.bodyLarge?.color, 
                   fontFamily: "Poppins",
                   fontSize: 16,
                 ),
