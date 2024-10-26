@@ -80369,7 +80369,7 @@ n=A.a1(a,p,n).w
 s=A.bT(15)
 r=A.v(a)
 q=A.v(a).p2.y
-return A.bO(p,A.w0(new A.bk(B.bW,A.bG(A.b([new A.bk(B.Eo,A.aK(u.M,p,p,p,A.aP(p,p,q==null?p:q.b,p,p,p,p,p,"Poppins",p,p,16,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.X,p,p),p)],t.p),B.q,p,B.x,B.u),p),o.at,4,B.bW,new A.bJ(s,new A.as(r.fr,1,B.p,-1))),B.o,p,p,p,p,n.a.b*0.32,p,p,p,p,m.a.a*0.95)}}
+return A.bO(p,A.w0(new A.bk(B.bW,A.bG(A.b([new A.bk(B.Eo,A.aK(u.M,p,p,p,A.aP(p,p,q==null?p:q.b,p,p,p,p,p,"Poppins",p,p,16,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.X,p,p),p)],t.p),B.q,p,B.x,B.u),p),o.at,4,B.bW,new A.bJ(s,new A.as(r.fr,1,B.p,-1))),B.o,p,p,p,p,n.a.b*0.38,p,p,p,p,m.a.a*0.95)}}
 A.JU.prototype={
 D(a){var s,r,q,p=null,o="Poppins",n=$.FR(),m=A.ap(p,A.a1(a,p,t.w).w.a.b*0.05,p),l=A.aK(u.E,p,p,p,A.aP(p,p,A.v(a).fr,p,p,p,p,p,o,p,p,18,p,p,B.an,p,p,!0,p,p,p,p,p,p,p,p),B.X,p,p),k=A.aK(u.d,p,p,p,A.aP(p,p,A.v(a).fr,p,p,p,p,p,o,p,p,18,p,p,B.an,p,p,!0,p,p,p,p,p,p,p,p),B.X,p,p),j=A.v(a).p2.Q
 j=A.aK("Best Flutter Developers -",p,p,p,A.aP(p,p,j==null?p:j.b,p,p,p,p,p,o,p,p,20,p,p,B.F,p,p,!0,p,p,p,p,p,p,p,p),B.X,p,p)
